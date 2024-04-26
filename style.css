@@ -1,0 +1,78 @@
+
+
+
+body{
+  
+ 
+  background-color: hsl(0, 0%, 8%);
+ display:flex;
+
+  justify-content:center;
+  height:100vh;
+ align-items:center;
+  
+}
+
+.cristiano-profile-card{
+
+  text-align:center;
+  font-family: "Inter Tight", sans-serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+  border-radius:5%;
+  color:hsl(0, 0%, 100%);
+  background-color:hsl(0, 0%, 12%);
+  padding:3rem;
+
+  
+    
+}
+
+img{
+   width: 100px;
+  height: 100px;
+  object-fit:cover;
+  border-radius:50%;
+  
+}
+
+#name{
+  font-weight: 600;
+ 
+
+  
+}
+
+#team{
+  font-weight: 400;
+  color:hsl(75, 94%, 57%)
+   
+   
+  
+}
+
+
+a{
+  display:block;
+  font-weight: 400;
+  text-decoration: none;
+  color:white;
+   
+
+   margin:5%;
+  padding:3%;
+  background-color:hsl(0, 0%, 20%);
+  border-radius:0.5rem;
+  
+  
+}
+
+a:hover{
+  color:black;
+  background-color:hsl(75, 94%, 57%);
+  
+}
+
+
+
